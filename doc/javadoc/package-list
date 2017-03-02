@@ -1,0 +1,13 @@
+main
+main.controller
+main.entidade.jogo
+main.entidade.jogo.tipo
+main.entidade.usuario
+main.entidade.usuario.role
+main.exception
+main.facade
+main.factory
+main.service
+test.util
+util
+util.io
